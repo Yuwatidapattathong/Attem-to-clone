@@ -12,5 +12,10 @@ public class Line2{
 		   System.out.println("false");
 	}
 
+	public static void changeA(String str){ 
+		
+
+	}
+
 
 }
