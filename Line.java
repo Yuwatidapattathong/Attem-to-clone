@@ -13,6 +13,7 @@ public class Line2{
 	}
 
 	public static void changeA(String str){ 
+		 System.out.println("Hi");
 		
 
 	}
